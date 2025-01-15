@@ -19,5 +19,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizwanali494&theme=default&show_icons=true&hide_border=true&count_private=true" alt="rizwanali494" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizwanali494&" alt="rizwanali494" /></p>
+<p><img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=rizwanali494)](https://git.io/streak-stats)" alt="rizwanali494" /></p>
 
