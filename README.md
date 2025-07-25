@@ -19,6 +19,8 @@
 
 <h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rizwanali494&theme=tokyo-night"/>
+![Rizwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizwanali494&show_icons=true&theme=tokyonight)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizwanali494&theme=default&show_icons=true&hide_border=true&count_private=true" alt="rizwanali494" /></p>
 
