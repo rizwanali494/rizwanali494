@@ -1,27 +1,118 @@
 <h1 align="center">Hi 👋, I'm Rizwan Ali Ashraf</h1>
-<h3 align="center">Experienced Flutter Developer for over a year, creating cross-platform mobile apps that run seamlessly on both iOS and Android. Expert in leveraging Dart to build fast and responsive apps.</h3>
+<h3 align="center">Senior Flutter Developer · 5+ Years Building Cross-Platform Mobile Apps for iOS & Android</h3>
 
-- 🌱 I’m currently learning **Advanced **Flutter State Management (BLoC)** - **Firebase Integration** for real-time apps - **Design Patterns** to improve app architecture**
-
-- 💬 Ask me about **Flutter, Dart**
-
-- 📫 How to reach me **rizwanaliali568@gmail.com**
-
-- ⚡ Fun fact **Having a clear app architecture is like building a strong foundation for a house—everything else stands stronger and longer!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rizwan-ali-ashraf-66a655176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=650&lines=Flutter+%26+Dart+Expert+%7C+5%2B+Years+Experience;Figma+to+Pixel-Perfect+Flutter+UI;Firebase+%7C+REST+APIs+%7C+Clean+Architecture;Available+for+Freelance+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~01e132561b07587f8d"><img src="https://img.shields.io/badge/Hire%20me%20on-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+  <a href="https://www.fiverr.com/rizwanmughal21"><img src="https://img.shields.io/badge/Hire%20me%20on-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
+  <a href="https://www.linkedin.com/in/rizwan-ali-ashraf-66a655176"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rizwanaliali568@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rizwanali494&theme=tokyo-night"/>
+---
 
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizwanali494&theme=default&show_icons=true&hide_border=true&count_private=true" alt="rizwanali494" /></p>
+I'm a **Flutter developer with 5+ years of experience** turning ideas into fast, beautiful, production-ready mobile apps. From MVPs for startups to feature-rich apps for growing businesses, I take projects from **Figma design to App Store & Play Store launch**.
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rizwanali494&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun" alt="GitHub Streak" /></a>
+- 📱 **Specialty:** Cross-platform apps with **Flutter & Dart** for Android, iOS & Web
+- 🎨 **Figma → Flutter:** Pixel-perfect, fully responsive UI that matches your design exactly
+- 🔥 **Backend & Real-time:** Firebase, Supabase, REST APIs, WebSockets, push notifications
+- 🏗️ **Clean Architecture:** BLoC, Provider, Riverpod, GetX, MVVM & SOLID principles
+- 🛒 **App Types:** E-commerce, social/chat, booking, fintech/wallet, delivery & business apps
+- 🚢 **End-to-End Delivery:** Development, testing, CI/CD and store publishing
+- 💬 **Ask me about:** Flutter, Dart, Firebase, state management & app architecture
 
+---
+
+## 💼 What I Can Build For You
+
+| Service | Details |
+| --- | --- |
+| 📲 **Custom Mobile Apps** | Complete Android & iOS apps from a single Flutter codebase |
+| 🎨 **Figma / XD to Flutter** | Responsive, pixel-perfect UI conversion with smooth animations |
+| 🔥 **Firebase Integration** | Auth, Firestore, Cloud Functions, Storage, FCM notifications |
+| 🔌 **API Integration** | REST & GraphQL APIs, payment gateways (Stripe, PayPal), Google Maps |
+| 🐞 **Bug Fixing & Upgrades** | Fix crashes, improve performance, migrate to the latest Flutter version |
+| 🚀 **App Store Publishing** | Google Play & Apple App Store setup, build & release |
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Mobile & Languages**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,java,cpp,androidstudio,vscode&theme=light" alt="Mobile & Languages" />
+</p>
+
+**Backend, Database & Cloud**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,nodejs,mongodb,mysql,sqlite,gcp,postman&theme=light" alt="Backend & Database" />
+</p>
+
+**Design, DevOps & Collaboration**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,git,github,githubactions,docker,linux,tensorflow&theme=light" alt="Design & DevOps" />
+</p>
+
+**Flutter Ecosystem**
+
+![BLoC](https://img.shields.io/badge/BLoC-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-02569B?style=flat-square&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat-square&logo=flutter&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FFC107?style=flat-square&logo=hive&logoColor=black)
+![Dio](https://img.shields.io/badge/Dio%20%2F%20HTTP-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![Codemagic](https://img.shields.io/badge/Codemagic-F45E3F?style=flat-square&logo=codemagic&logoColor=white)
+![Play Store](https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=googleplay&logoColor=white)
+![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)
+
+---
+
+## 🌟 Why Clients Work With Me
+
+- ✅ **5+ years** of hands-on Flutter & mobile development experience
+- ✅ Clean, scalable & well-documented code you can build on
+- ✅ Clear communication and regular progress updates
+- ✅ On-time delivery and support after launch
+- ✅ Top-rated freelancer on **Upwork** & **Fiverr**
+
+> ⚡ **Fun fact:** A clear app architecture is like a strong foundation for a house — everything built on top stands stronger and lasts longer!
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rizwanali494&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanali494&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rizwanali494&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizwanali494&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+
+---
+
+<h3 align="center">🤝 Have an app idea? Let's build it together!</h3>
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~01e132561b07587f8d"><img src="https://img.shields.io/badge/Hire%20me%20on-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+  <a href="https://www.fiverr.com/rizwanmughal21"><img src="https://img.shields.io/badge/Hire%20me%20on-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rizwanali494&label=Profile%20Views&color=02569B&style=flat" alt="Profile views" />
+</p>
