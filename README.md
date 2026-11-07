@@ -92,16 +92,7 @@ I'm a **Flutter developer with 5+ years of experience** turning ideas into fast,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rizwanali494&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanali494&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=rizwanali494&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizwanali494&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 ---
